@@ -1,0 +1,230 @@
+[
+	{
+		"title": "The Shawshank Redemption",
+		"rating": 9.3,
+		"year": 1994,
+		"summary": "A wrongly convicted banker spends nearly two decades in Shawshank Penitentiary, forging friendships and maintaining hope for freedom."
+	},
+	{
+		"title": "The Godfather",
+		"rating": 9.2,
+		"year": 1972,
+		"summary": "An aging patriarch of an organized crime dynasty seeks to transfer control of his empire to his reluctant son."
+	},
+	{
+		"title": "The Dark Knight",
+		"rating": 9.0,
+		"year": 2008,
+		"summary": "Batman must confront the unpredictable and charismatic criminal mastermind, the Joker."
+	},
+	{
+		"title": "Pulp Fiction",
+		"rating": 8.9,
+		"year": 1994,
+		"summary": "A darkly comedic crime film that intricately weaves together several interconnected short stories of murder, revenge, and redemption."
+	},
+	{
+		"title": "Schindler's List",
+		"rating": 8.9,
+		"year": 1993,
+		"summary": "During World War II, a German businessman risks his life to save the lives of Jewish refugees from his factory workers."
+	},
+	{
+		"title": "12 Angry Men",
+		"rating": 9.0,
+		"year": 1957,
+		"summary": "In a steamy jury room, one man challenges the others to reconsider a murder conviction."
+	},
+	{
+		"title": "The Matrix",
+		"rating": 8.7,
+		"year": 1999,
+		"summary": "A computer hacker learns that his reality is a simulated world, and joins a rebellion against the machines that control it."
+	},
+	{
+		"title": "Forrest Gump",
+		"rating": 8.8,
+		"year": 1994,
+		"summary": "A simple man recounts his extraordinary life story, filled with pivotal moments in American history."
+	},
+	{
+		"title": "Goodfellas",
+		"rating": 8.7,
+		"year": 1990,
+		"summary": "A young associate rises through the ranks of a crime family, learning the brutal realities of organized crime."
+	},
+	{
+		"title": "Inception",
+		"rating": 8.8,
+		"year": 2010,
+		"summary": "A skilled thief extracts information from people's dreams, but soon becomes embroiled in a dangerous and complex mission."
+	},
+	{
+		"title": "Fight Club",
+		"rating": 8.8,
+		"year": 1999,
+		"summary": "An insomniac office worker seeking a new identity falls into a nihilistic underground fight club."
+	},
+	{
+		"title": "The Silence of the Lambs",
+		"rating": 8.6,
+		"year": 1991,
+		"summary": "A young FBI trainee seeks the help of an incarcerated, brilliant psychiatrist who is a former cannibalistic serial killer."
+	},
+	{
+		"title": "Terminator 2: Judgment Day",
+		"rating": 8.5,
+		"year": 1991,
+		"summary": "A cyborg detective travels back in time to protect a young boy who is targeted by a liquid metal Terminator."
+	},
+	{
+		"title": "Interstellar",
+		"rating": 8.6,
+		"year": 2014,
+		"summary": "A team of explorers journeys through a wormhole near Saturn in a mission to locate a new home for humanity."
+	},
+	{
+		"title": "Spirited Away",
+		"rating": 8.6,
+		"year": 2001,
+		"summary": "A young girl enters a magical world of spirits and monsters after her parents take her to a secluded resort."
+	},
+	{
+		"title": "The Lion King",
+		"rating": 8.5,
+		"year": 1994,
+		"summary": "A young lion prince is forced into exile after his uncle murders his father and takes over the throne."
+	},
+	{
+		"title": "Toy Story",
+		"rating": 8.3,
+		"year": 1995,
+		"summary": "A cowboy doll names Woody finds himself lost in the world and tries to return to his owner, Andy."
+	},
+	{
+		"title": "The Sixth Sense",
+		"rating": 8.2,
+		"year": 1999,
+		"summary": "A child psychologist discovers that he can communicate with the dead."
+	},
+	{
+		"title": "Avengers: Endgame",
+		"rating": 8.4,
+		"year": 2019,
+		"summary": "The culmination of ten years of storytelling, the Avengers must defeat Thanos and his army to save the universe."
+	},
+	{
+		"title": "Paddington 2",
+		"rating": 7.6,
+		"year": 2017,
+		"summary": "A charming bear named Paddington finds himself in a spot of trouble when a stolen pop-up book leads him on a chaotic adventure."
+	},
+	{
+		"title": "The Grand Budapest Hotel",
+		"rating": 7.8,
+		"year": 2014,
+		"summary": "A concierge at a famous European hotel navigates a series of events involving a priceless painting and a young lover."
+	},
+	{
+		"title": "Knives Out",
+		"rating": 7.6,
+		"year": 2019,
+		"summary": "A detective investigates the suspicious death of a wealthy patriarch, surrounded by his eccentric family."
+	},
+	{
+		"title": "Little Women",
+		"rating": 7.8,
+		"year": 2019,
+		"summary": "The story of the March sisters – Jo, Meg, Beth, and Amy – as they navigate love, loss, and ambition during the Civil War."
+	},
+	{
+		"title": "Coco",
+		"rating": 8.4,
+		"year": 2017,
+		"summary": "A young musician named Miguel sets out on a magical journey through his great-grandfather's memories to pursue his dream."
+	},
+	{
+		"title": "Sing Street",
+		"rating": 7.8,
+		"year": 2016,
+		"summary": "In 1980s Dublin, a teenager starts a band to impress a girl."
+	},
+	{
+		"title": "The Truman Show",
+		"rating": 8.1,
+		"year": 1998,
+		"summary": "A man discovers his entire life is a constructed reality, broadcast to a global audience."
+	},
+	{
+		"title": "Chef",
+		"rating": 7.6,
+		"year": 2014,
+		"summary": "A chef rediscovers his passion for cooking after losing his restaurant job."
+	},
+	{
+		"title": "The King's Speech",
+		"rating": 8.1,
+		"year": 2010,
+		"summary": "A speech impediment threatens to derail the reign of a young king, and a speech therapist helps him overcome his challenge."
+	},
+	{
+		"title": "Forrest Gump",
+		"rating": 8.8,
+		"year": 1994,
+		"summary": "A man with a low IQ recounts his extraordinary life story, marked by pivotal moments in American history."
+	},
+	{
+		"title": "The Princess Bride",
+		"rating": 8.1,
+		"year": 1987,
+		"summary": "A fairytale adventure combining romance, comedy, and action, following the story of Westley and Buttercup."
+	},
+	{
+		"title": "Hunt for the Wilderpeople",
+		"rating": 7.5,
+		"year": 2016,
+		"summary": "A rebellious teenager and his foster uncle go on the run in the New Zealand wilderness."
+	},
+	{
+		"title": "A Monster Calls",
+		"rating": 7.4,
+		"year": 2016,
+		"summary": "A boy is visited by a tree-like creature who helps him confront his mother's terminal illness."
+	},
+	{
+		"title": "About Time",
+		"rating": 7.8,
+		"year": 2013,
+		"summary": "A young man discovers he can travel through time and uses his ability to improve his life and relationships."
+	},
+	{
+		"title": "Pride & Prejudice",
+		"rating": 7.9,
+		"year": 2005,
+		"summary": "The story of Elizabeth Bennet and Mr. Darcy's tumultuous romance in 19th-century England."
+	},
+	{
+		"title": "Arrival",
+		"rating": 7.8,
+		"year": 2016,
+		"summary": "A linguist is recruited by the military to communicate with aliens who have arrived on Earth."
+	},
+	{
+		"title": "The Martian",
+		"rating": 8.0,
+		"year": 2015,
+		"summary": "An astronaut is presumed dead and left behind on Mars, where he must use his ingenuity to survive and signal for help."
+	},
+	{
+		"title": "La La Land",
+		"rating": 8.0,
+		"year": 2016,
+		"summary": "A jazz pianist and an aspiring actress fall in love in Los Angeles, navigating their dreams and ambitions."
+	},
+	{
+		"title": "The Notebook",
+		"rating": 7.9,
+		"year": 2004,
+		"summary": "An elderly man recounts his timeless love story to a woman he meets in a nursing home."
+	}
+]
